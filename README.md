@@ -57,20 +57,4 @@ Executing the project.
 ## Step3 : 
 Finally! Run the project executable file.
 
-# Members
-+ Krish Nariya
-+ Aakarsh Lohani
-+ Piyusha Mukherjee
-+ Nivedha Sriram
-+ Priyam Kotnala
-+ Dave Meshak
-
-# References
-+ https://www.geeksforgeeks.org/text-file-compression-and-decompression-using-huffman-coding/
-+ https://codereview.stackexchange.com/questions/195251/compression-decompression-using-huffman-coding-algorithm
-+ https://www.programiz.com/dsa/huffman-coding
-
-# License
-This project is licensed under MIT license - Kindly refer the LICENSE file for details.
-
 
